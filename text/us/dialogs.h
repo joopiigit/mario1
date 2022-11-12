@@ -17,7 +17,7 @@ Welcome to the quiz show!\n\
 I'm your host, normal ass\n\
 toad, and today we'll be\n\
 discovering the true\n\
- meaning of christmas.\n\
+meaning of christmas.\n\
 Head into the Schlorper\n\
 to start the quiz"))
 
